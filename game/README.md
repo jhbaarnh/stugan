@@ -1,0 +1,1 @@
+Stugan i kompilerad form.
