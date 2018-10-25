@@ -1,0 +1,603 @@
+
+Just när du ska ta rubinen kommer Thorvald fram och utropar
+- April, april! Nu tar jag hand om rubinen själv!
+
+
+
+
+
+På avstånd hör du skratt och applåder. När du försöker ta reda på varifrån
+ljudet kommer ser du en björn med bekant ansikte. Han viftar med öronen och
+försöker berätta en rolig historia. Eftersom du inte skrattar kör han ut dej.
+
+Du dricker ur brännvinsflaskan.
+Klunk...klunk...klunk......HICK!
+
+Du klättrar upp i ett träd och ser dej omkring. I norr ser du ett hus och
+i söder en liten stuga. Plötsligt tappar du balansen.
+Du ramlar ner på marken igen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+╒════════════════════════════════════════════════════════╕
+│                                                        │
+│                                                        │
+│      Men jorden öppnade sig och uppsluckade Datan      │
+│            och övertäckte Abirams hop.                 │
+│                                                        │
+│                                (Ps. 106:17)            │
+│                                                        │
+╘════════════════════════════════════════════════════════╛
+
+
+INFORMATION OM VISSA KOMMANDON:
+
+Förflyttning inomhus:
+
+UPPÅT, NERÅT, FRAMÅT, BAKÅT, VÄNSTER, HÖGER (U, N, F, B, V, H)
+
+Förflyttning utanför huset:
+
+NORR, SÖDER, VÄSTER, ÖSTER (N, S, V, Ö) NV, NÖ, SV, SÖ
+INVENT       skriver allt man bär på
+HJÄLP        ger ibland hjälp
+POÄNG        visar hur många poäng man har fått
+TITTA        ger hela rumsbeskrivningen
+SPARA        sparar spelat på fil
+ÅTERSKAPA    hämtar tillbaka spelet
+LOGGA        skriver en loggfil med alla kommandon man ger
+LÄS LOGGFIL  utför kommandona i en loggfil
+SLUTA        slutar
+
+
+Du ska inte ha någon fördel bara för att Stugrådet råkar ha sammanträde när
+du ramlar in. Du får försöka hitta skattkammaren själv.
+(Förresten har dom redan försvunnit!)
+
+
+
+
+Just när du ska koppla in telefonen kommer en man med en röd dräkt som det
+står TELE på in och slänger en telefonkatalog på dina fötter.
+
+
+Personalköket rekommenderar:
+
+Halvruttna tomater med pilaffris. Vändstekt, långsamt grillad samt hårdkokt
+samt friskt, giftigt grottvatten. (Hi, hi, hi)
+<klick> TUUT --- TUUT --- TUUT
+
+Jaha. Hm, linjen är väl okej, men abonnenten...
+Det fixar sej nog om ett tag..
+<klick>
+
+Jo, förresten. Jag får väl snacka med honom. Om jag får tag på honom. Han
+är ofta ute på jakt...
+
+Jo, förresten. Vi får väl ta och se över våra trappor.
+Jag ska genast kontakta gatukontoret.
+
+En automatisk telefonsvarare svarar:
+
+- Han är tyvärr inte inne. Han har alltid så mycket att
+göra att han aldrig hinner svara i telefon.
+<klick>
+
+Du kastar hillebarden mot den fulle vakten. Han fångar upp den i
+luften med en elegant gest.
+
+
+
+
+Gubben reser sej, muttrar någonting om att man aldrig
+får vara i fred, och försvinner.
+
+
+IIIIIIIIIIIIIIII
+_ _ _      II              II      _ _ _
+──────I I I I─────I                I─────I I I I────────────
+I I I I     I   I--I  I--I   I     I I I I
+I_I_I_I     I   I  I  I  I   I     I_I_I_I
+I   I  I  I  I   I
+I   I ♦I  I♦ I   I
+I   I__I  I__I   I
+II              II
+II            II
+II          II
+I__      __I
+I    I
+I    I
+I    I
+I    I
+II  II
+I__I
+
+I------I
+──────────────III─────I ♦  ♦ I─────III────────────────────
+I      I
+--II--
+II
+--
+╔═════════════════════════════════════════════════════════════════════╗
+║  Stuga är ett ADVENTURE-liknande spel på svenska.                   ║
+║                                                                     ║
+║  Du ska utforska ett hus och dess omgivningar. Datorn är dina       ║
+║  ögon och händer. Ge enkla order till datorn, till exempel:         ║
+║  SLÄPP TAVLAN, GE SAFTFLASKAN, NORR, UPPÅT, VÄNSTER...              ║
+║  Utanför stugan förflyttar du dej med väderstreck som kan för-      ║
+║  kortas till N, S, V, Ö, NV, NÖ, SÖ och SV. Inne i stugan används   ║
+║  riktningarna FRAMÅT (F), BAKÅT (B), VÄNSTER (V), HÖGER (H),        ║
+║  UPPÅT (U) samt NERÅT (N).                                          ║
+║  I vissa rum kan du få särskild hjälp (det ger poängavdrag) om du   ║
+║  skriver HJÄLP. INVENT listar alla saker du bär på, POÄNG skriver   ║
+║  ut hur många poäng du har och TITTA skriver ut den fullständiga    ║
+║  beskrivningen av rummet. Ge kommandot SLUTA när du är färdig.      ║
+║  Skriv INFO för att få en lista över kommandona.                    ║
+║                                                                     ║
+║  Du ska försöka att skaffa så många poäng som möjligt. Poäng får    ║
+║  du genom att upptäcka nya ställen och ta vara på värdesaker.       ║
+╚═════════════════════════════════════════════════════════════════════╝
+Du kommer in i ett rum där det står en massa djur! På en skylt i luften
+står det
+╔═══════════════════════════════════════════╗
+║   RUM UNDER BYGGNAD, SUPREMS BYGGNADS AB  ║
+╚═══════════════════════════════════════════╝
+Plötsligt omges du av ett gult moln!
+
+Plötsligt hoppar en skäggig rövare fram ur mörkret och säjer:
+- Jag snor det här krafset och gömmer det i mitt
+gömställe långt nere!!
+Han försvinner lika fort som han kom!
+
+Du är i Ateljen. Här finns det tre dörrar. Dom går åt vänster, åt höger och
+bakåt. På väggen står det: ALEA JACTA EST
+
+Du är i en återvändsgång. Här står Kimmo och säjer:
+- Det här är återvändsgången i denna labyrint. Här gömmer piraten sina
+skatter. Jag är piraten!
+
+HAR HAR HAR
+
+En liten faun springer fram och tänker trampa dej på foten
+men han tappar en sko och springer ylande därifrån.
+
+Du har kommit till en sjö där du ser två båtar.
+Du kliver i en men upptäcker att den bara var en synvilla.
+
+Du är på den södra stranden. Här finns en liten röd stuga.
+Bakom stängsel åt väster och öster finns det bara skog.
+Det ligger en roddbåt här.
+
+
+
+
+
+
+
+
+Du är i hissens maskinrum. Det bullrar och låter.
+Det finns en dörr bakom dej.
+
+Du klättrar upp i en mörk gång efter en mörk skugga.
+Långt borta hörs en röst:
+- HÖ, HÖ! En boll! In med den!!!
+
+
+
+
+
+
+
+Du står på kanten till en djup brunn.
+Om du hoppar ner kommer du inte upp igen!
+
+3:e våningens hissrum var visst toaletten.
+Du spolas ut på golvet. Till vänster finns
+en dörr men du kan också spola ner dej.
+
+
+Vatten brusar runt dej. Allt går runt ett tag och du tappar orienteringen
+fullständigt.
+Plötsligt blir det helt lugnt och du upptäcker att du är
+
+Du är på östra stranden. Åt norr är det skog.
+Här ligger en roddbåt.
+
+Oj, en motorbåt åkte för nära dej.
+Din båt går runt och du svimmar!
+
+När du vaknar är du
+
+Du ror och ror...
+Plötsligt åker du in i en vattenvirvel som suger ner både dej och båten.
+
+
+Du är på en stenig sjöstrand.
+Det finns en liten badhytt här.
+Ett staket hindrar dej att gå åt nordost, öster eller sydost.
+
+POFF!!! Ett grönt gasmoln omger dej!
+OJOJOJ, det gick inte. Du är fortfarande stendöd! Jag lovar att du
+ska få en värdig begravning!!
+
+POFF!!! Ett grönt gasmoln omger dej!!
+Du lever!  När gasen skingrats ser du att
+
+VA? Litar du inte på mig? Senast igår återuppväckte jag
+en DEC-2020 och den fungerade i flera minuter...
+
+Du är i höger kammare. En väg går framåt, men på ett anslag står det:
+TILL DEJ SOM HÄR INTRÄDER VÄNTAR
+ANTINGEN EN BELÖNING ELLER OCKSÅ ... DÖDEN
+
+Du är i en hall med tre dörrar. På den vänstra finns en nedåtriktad
+pil, på dörren rakt fram finns en pil som pekar uppåt och på dörren
+till höger står det atelje. Bakom dej ligger porten ut ur huset.
+
+
+Du är i Skumgummirummet.
+Det finns dörrar framåt och åt vänster.
+En gång går neråt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Du är i farstun, ett litet rum med en dörr bakom dej
+och en stor portal rakt fram.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Du är i en mörk gång. Framåt är en öppning.
+Till vänster skymtar man en grind och till höger en panna.
+Det finns ett hål i golvet och en gång går snett bakåt-uppåt.
+
+Grinden öppnar sej och du går in.
+BANG!!  Grinden stängs bakom dej!
+
+Du är i Pannrummet, en trång gång går snett uppåt-framåt
+och en går åt vänster. Till höger fortsätter Pannrummet.
+
+Du är i källaren. Ett kallt och rått rum med tre dörrar
+(vänster,höger och framåt) och en gång uppåt.
+
+Du är i ett stort rum som heter ÅP-rummet.
+Dörrar leder till vänster och höger men man kan också gå framåt.
+
+
+Just när du går fram mot rulltrappan, stannar den och en
+gubbe springer fram och spärrar av den.
+
+Just när du går fram mot rulltrappan, stannar den och en
+gubbe springer fram och spärrar av den.
+
+Du är på vinden, ett litet skrymsle högst ner i huset.
+Härifrån kan man gå i alla riktningar.
+På väggen står det: SESAM
+
+Du är i ett tomt rum. Det finns ett hål i taket och en ribbstol
+som leder dit. Dörrar leder åt höger och åt vänster.
+
+Du är i ett underligt rum. Dimslöjor sveper kring dina fötter
+och du ser gångar i alla riktningar.
+
+
+
+
+
+
+
+
+
+
+Du står på en brygga någonstans i Småland. Bakom din solvärmda rygg
+åker man vattenskidor. En kyrkklocka (som du inte ser) slår tolv.
+Du ser ett hus rakt fram.
+
+Du är på en strand som fortsätter åt öster. Långt bort i öster
+skymtar man en brygga. Åt norr och söder är det skog.
+Ett staket hindrar dej att gå åt väster, nordväst eller sydväst.
+
+Du går runt, runt. Efter ett tag märker du att du gått vilse.
+Du går över en äng och ett högt berg.
+
+Du är söder om sjön. Österut bakom ett stängsel ser du en liten röd
+stuga och en båtbrygga. I bergväggen åt sydost finns en grottöppning.
+
+Du står på en trappa framför ett stort hus. En stor port prydd med
+ett familjevapen i guld och silver finns bredvid dej.
+I söder ser du en brygga. Åt väster och öster står skogen tät.
+
+
+Du är söder om sjön. Västerut bakom ett stängsel ser du en liten röd
+stuga och en båtbrygga. I bergväggen åt sydväst finns en grottöppning.
+
+Plötsligt hoppar ett konstigt, blått litet djur fram ur skogen och ropar:
+
+- Hjälp! Jag vet inte om jag är en bug eller en feature!
+Det springer rätt ut i sjön och simmar bort.
+
+Du är på en kyrkogård. Du står vid en gravsten på kanten
+till en grav. En stig leder framåt och bakåt.
+
+Du är i en grav. Det luktar unket här.
+Prästen tittar ner. Han ser ut så här:
+
+Du är i Osvalds rum, ett rum med fyra dörrar. På den högra står det
+ZZZZ, på den vänstra står det THORVALD och på den rakt fram
+står det GARDEROB.
+
+
+
+
+
+
+Det finns en illaluktande gurka här.
+Den rasar ned och lägger sej på golvet.
+
+Du tittar in i personalköket. Osvald ryter till:
+
+- STICK, din eländiga babian!
+
+Du ser en liten faun som quarkar en praktyl. Faunen säjer:
+
+- Vad har du här att göra? Räcker det inte med att folk ränner
+omkring som tokar nere hos mej? Ska dom komma hit också?
+
+
+En liten faun dyker upp.
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║     ▓▓▓▓▓▓  ▓▓▓▓▓▓▓▓▓  ▓       ▓    ▓▓▓▓▓▓      ▓▓▓▓▓     ▓▓      ▓▓      ║
+║     ▓    ▓  ▓   ▓   ▓  ▓       ▓   ▓▓    ▓▓    ▓▓   ▓▓     ▓▓▓    ▓       ║
+║     ▓           ▓      ▓       ▓   ▓          ▓▓     ▓▓    ▓ ▓▓   ▓       ║
+║     ▓▓▓▓▓▓      ▓      ▓       ▓   ▓     ▓▓   ▓       ▓    ▓  ▓▓  ▓       ║
+║          ▓      ▓      ▓       ▓   ▓      ▓   ▓▓▓▓▓▓▓▓▓    ▓   ▓▓ ▓       ║
+║     ▓    ▓      ▓      ▓▓     ▓▓   ▓▓    ▓▓   ▓       ▓    ▓    ▓▓▓       ║
+║     ▓▓▓▓▓▓     ▓▓▓      ▓▓▓▓▓▓▓     ▓▓▓▓▓▓   ▓▓▓     ▓▓▓  ▓▓▓     ▓▓      ║
+║                                                                           ║
+║     ▄                                                                     ║
+║   ┌─▀───────────────────────┐                                             ║
+║   │^^^^^^^^^^^^^^^^^^^^^^^^^│     ett program av Kimmo Eriksson,          ║
+║   │^^^^^^^^^^^^^^^^^^^^^^^^^│     √iggo Eriksson och Olle Johansson       ║
+║   └┬───────────────────────┬┘                                             ║
+║    │                       │                                              ║
+║    │ ┌─┬─┐  ┌───┐    ┌─┬─┐ │      (c) Copyright författarna               ║
+║    │ ├─┼─┤  │ ♦ │    ├─┼─┤ │          Sollentuna 1986                     ║
+║    │ └─┴─┘  │   │    └─┴─┘ │                                              ║
+║    │        │___│          │      Scandinavian PC Systems AB, Växjö       ║
+║     """""""""\   \""""""""""      Tfn 0470 - 221 40                       ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+Version 1.01/PC
+
+
+╒════════════════════════════════════════════════════════╕
+│                                                        │
+│ Med skam skall du få mätta dig i stället för med ära.  │
+│   Ja, du skall också själv få dricka, till dess du     │
+│          ligger där med blottad förhud.                │
+│                                                        │
+│                                (Hab 2:16)              │
+│                                                        │
+╘════════════════════════════════════════════════════════╛
+
+
+
+╒════════════════════════════════════════════════════════╕
+│                                                        │
+│                                                        │
+│      Men jorden öppnade sig och uppsluckade Datan      │
+│            och övertäckte Abirams hop.                 │
+│                                                        │
+│                                (Ps. 106:17)            │
+│                                                        │
+╘════════════════════════════════════════════════════════╛
+
+
+
+
+
+
+
+╔═══════╤═══════╤═══════╤═══════╤═══════╤═══════╤═══════╤═══════╤═══════╗
+║       │       │       │       │       │       │       │       │       ║
+║       │       │       │       │       │       │       │       │       ║
+║   1   │   2   │   3   │   4   │   5   │   6   │   7   │   8   │   9   ║
+║       │       │       │       │       │       │       │       │       ║
+╙───────┴───────┴───────┴───────┴───────┴───────┴───────┴───────┴───────╜
+
+┌──────────────────┐      ╔════════════════════════╗   ╒════════════════╕
+│ Hiss godkänd för │      ║  Vid fara, tryck på    ║   │  ☺ Besök per-  │
+│   två personer   │      ║  nödstopp och invänta  ║   │  sonalköket!   │
+│                  │      ║  hjälp.                ║   │                │
+│     (300 kg)     │      ║         Larmcentralen  ║   │  Alltid färska │
+└──────────────────┘      ╚════════════════════════╝   │  praktyler!    │
+│                │
+│         Osvald │
+└────────────────┘
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Du skrapar av algerna från sengångaren, som myser belåtet.
+Oj! Det var ovanliga och värdefulla alger av släktet Cyanophyceae.
+
+
+***   TELEFONKATALOG ÖVER STUGAN   ***
+Telefonnr:    Abonnent:
+000        Stugans televerk
+100        Stugan
+307        Hissreparatören
+323        Glasmästaren
+405        Personalköket
+481        Vakten
+999        Larmcentralen
+
+
+När du biter i medaljen lossnar guldfolien och du upptäcker att den
+egentligen är gjord av choklad.
+
+Du kastar hillebarden mot den sovande vakten, som stönar och bleknar.
+Du drar den bloddrypande hillebarden ur liket och torkar av den.
+
+Du är inne i huset. Här finns en automat med en skylt där det står:
+
+SLÄPP SAKER HÄR, så får du poäng enligt prislistan.
+
+
+PRISLISTA:
+
+Du är i en gång där det på väggen står:
+Lampan försvinner om den tas ur gången. Stanna kvar!
+
+När du rör saken blir det ljust i gången. Saken är en lampa. På väggen
+ser du att det står:
+Lampan försvinner om den tas ur gången. Stanna kvar!
+Du står på kanten till en djup brunn.
+Om du hoppar ner kommer du inte upp igen!
+
+Du sätter tafatt din vassa tunga mot fönstret och slickar till.
+Glassplittret yr och din strupe skärs upp av dom vassa kanterna.
+Det sista du ser i livet är ett tungt föremål som ramlar ut ur
+fönstret och hamnar på marken.
+
+Du skär upp fönstret med diamanten.
+En kofot ramlar ut och slår dej hårt i huvudet.
+Du rasar ihop av slaget.
+
+Du krossar fönstret med släggan. Där bakom finns en kofot.
+Thorvald springer fram och säjer: - Jag hörde braket! Nu tar jag
+kofoten som betalning för det förstörda fönstret.
+Han tar kofoten och försvinner.
+
+Du har kommit in i matrummet. Här har Stugrådet sammanträde.
+Just nu pratar ordföranden, Thorvald:
+
+- Vi har samlats till detta krismöte för att diskutera den
+allvarliga frågan om stugforskarnas kvalitet. Jag, och många
+med mej, anser att stugforskarnas kvalitet genomgående har
+försämrats.
+Kimmo:
+- Jag håller med dej. Titta bara på den som kom in nu! Jag
+föreslår att vi fortsätter vårt sammanträde i skattkammaren.
+Hela församlingen reser sej och ger sej iväg.
+
+Osvald kommer fram ur dunklet, utklädd till kung.
+Han ser din brännvinsflaska och säjer:
+- Det är väl synd att gå omkring här med en tom brännvinsflaska.
+
+Han tar fram en fickplunta ur kostymen och fyller på
+din brännvinsflaska.
+
+Osvald mumlar något om en faun och knuffar ut dej ur rummet.
+
+Du bänder upp kistan med din kofot och ser att det ligger en cykelpump där!
+Slarvig som du är lyckas du tappa kofoten i kistan när du tar
+pumpen. Kistlocket smäller igen.
+
+GRATTIS!! Du har genomskådat hela stugan.
+Du är härmed invald i stugrådet.
+
+Vakten hindrar dej inte, men vänder sitt av ett långt livs många umbäranden
+märkta ansikte mot dej, ser på dej med glansiga ögon som knappt låter ana
+en sedan länge borttynande inre eld, öppnar långsamt men beslutsamt den en
+gång nästan kvinnligt vackra men nu närmast otäckt förvridna munnen, och
+säjer, med den brutna rösten hos en man som alltför länge fått utstå alltför
+mycket, med det blodisande tonfallet hos en hjälte som aldrig gett vika, med
+den betvingande andedräkten hos en gubbe som alltför ofta dränkt sina sorger
+i brännvin: - Ta den du bara!  Ta min medalj, min käraste ägodel, den klenod
+jag skattar så högt att dess blotta affektionsvärde ger mej den allra högsta
+förmögenhetsskatten i hela Stugans personalkår.  Ta den du, min förtjänst-
+medalj som jag personligen mottagit som belöning för 11147 dagars trogen
+tjänst som vakt av denna portal från själve Thorvalds hand och i närvaro av
+det församlade stugrådet; en hedersbetygelse som endast tilldelas den mest
+meriterade av Stugans tjänstemän, och som säkerligen aldrig någon klumpig
+faun eller tjuvaktig stugforskare som du kommer få.  Snyft!  Jag minns ännu
+dom vackra violbuketterna, personalkökets underbara festmiddag med utsökt
+quarkade praktyler och halvruttna tomater, och hur Kimmo avslutade kvällen
+med att utropa ett fyrfaldigt "HAR HAR!" för mej...  Men vet att ditt
+tjuveri inte går ostraffat!
+Ett ögonblick verkar vaktens ögons sedan länge borttynande inre eld flamma
+upp igen, men han hejdar sej, blicken blir på nytt frånvarande, munnen stängs,
+och du kan åter andas...
+
+
